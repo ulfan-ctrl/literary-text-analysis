@@ -1,0 +1,46 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Exploring Vocabulary Patterns in English Literary Texts\n",
+        "\n",
+        "**Student:** Ulfan Mirzazada\n",
+        "\n",
+        "**Course:** Applied Programming Projects\n",
+        "\n",
+        "**Semester:** Autumn 2026\n",
+        "\n",
+        "## Project Description\n",
+        "\n",
+        "This project explores vocabulary patterns in selected English literary texts using Python. It focuses on word frequency and comparisons between texts."
+      ],
+      "metadata": {
+        "id": "QKw0t2LRXUsn"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "HWKRZ5k8XpAa"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
