@@ -1,6 +1,7 @@
 Exploring Vocabulary Patterns in English Literary Texts
 
 Project Overview
+
 This project explores vocabulary patterns in two English short stories using Python. The main aim is to identify frequently used words and compare vocabulary across the texts.
 
 Texts Analysed
@@ -8,6 +9,7 @@ Texts Analysed
 * "The Story of an Hour" by Kate Chopin
 
 Methods
+
 The analysis was carried out in Google Colab using Python.
 
 The main steps included:
@@ -35,4 +37,5 @@ Tools and Libraries Used
 * Github
 
 Conclusion
+
 This project demonstrates how Python can be used to explore vocabulary patterns in literary texts. Word-frequency analysis can support literary interpretation, but the results should also be considered alongside close reading.
