@@ -1,6 +1,6 @@
 Exploring Vocabulary Patterns in English Literary Texts
-Project Overview
 
+Project Overview
 This project explores vocabulary patterns in two English short stories using Python. The main aim is to identify frequently used words and compare vocabulary across the texts.
 
 Texts Analysed
